@@ -6,7 +6,7 @@ import TotalDisplay from './components/TotalDisplay';
 import CalcButton from './components/CalcButton';
 
 function App() {
-
+  console.log('🀀');
   return (
     <div className="App">
       <nav className="navbar navbar-dark bg-dark">
